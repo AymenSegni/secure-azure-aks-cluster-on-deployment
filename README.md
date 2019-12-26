@@ -1,5 +1,5 @@
 # Secure Azure AKS kubernetes cluster deployment
-AKS security lab: using Azure AD, RBAC, Azure CNI, Azure network policy, Azure KeyVault and Terraform
+AKS deployment security lab: using Azure AD, RBAC, Azure CNI, Azure network policy, Azure KeyVault and Terraform
 
 -----
 
