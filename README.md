@@ -30,3 +30,6 @@ This article is organized in three parts:
 3. You have Terraform installed in your local machine
 4. You have basic experience with Terraform
 5. Azure subscription: Sign up for an Azure account, if you don’t own one already. You will receive USD200 in free credits.
+
+-----
+## Part I: Implement Azure AD to secure AKS at the deployment
