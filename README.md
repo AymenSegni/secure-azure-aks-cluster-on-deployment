@@ -32,4 +32,6 @@ This article is organized in three parts:
 5. Azure subscription: Sign up for an Azure account, if you don’t own one already. You will receive USD200 in free credits.
 
 -----
-## Part I: Implement Azure AD to secure AKS at the deployment
+## [Part I: Implement Azure AD to secure AKS at the deployment](https://aymen-segni.com/index.php/2020/01/03/secure-aks-at-the-deployment-part-1/)
+## [Part II: Implement RBAC to secure AKS at the deployment](https://aymen-segni.com/index.php/2020/01/03/secure-aks-at-the-deployment-part-2/)
+## [Part III: Implement Network Policies to secure AKS at the deployment](https://aymen-segni.com/index.php/2020/01/03/secure-aks-at-the-deployment-part-3/)
