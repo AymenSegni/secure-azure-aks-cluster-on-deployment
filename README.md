@@ -17,9 +17,10 @@ With this lab, you’ll go through tasks that will help you  master the basic an
 ------
 
 This article is organized in three parts:
-Part 1: Implement Azure AD
-Part 2: Implement RBAC authentication
-Part3: Implement Azure Network Policies
+
+* Part 1: Implement Azure AD
+* Part 2: Implement RBAC authentication
+* Part3: Implement Azure Network Policies
 
 ------
 ## Assumptions and Prerequisites
